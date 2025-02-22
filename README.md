@@ -63,3 +63,9 @@ $ python main.py
 ```
 
 # Output :
+
+## Mouse cursor 
+![OutPut1](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output1.jpg)
+
+## Single left click
+![OutPut2](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output2.jpg)
