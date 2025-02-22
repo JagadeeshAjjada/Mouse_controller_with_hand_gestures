@@ -75,3 +75,6 @@ $ python main.py
 
 ## Double left click
 ![OutPut4](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output4.png)
+
+## Hold left click and move
+![OutPut5](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output5.jpg)
