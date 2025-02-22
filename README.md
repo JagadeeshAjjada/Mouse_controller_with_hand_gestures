@@ -48,3 +48,12 @@ $ python main.py
 
 ## Scroll up
 ![OutPut6](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output6.jpg)
+
+## Scroll down
+![OutPut7](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output7.jpg)
+
+## Volume decrease
+![OutPut8](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output8.jpg)
+
+## Volume increase
+![OutPut9](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output9.png)
