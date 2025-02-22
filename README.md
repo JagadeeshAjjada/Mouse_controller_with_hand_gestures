@@ -69,3 +69,9 @@ $ python main.py
 
 ## Single left click
 ![OutPut2](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output2.jpg)
+
+## Single right click
+![OutPut3](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output3.jpg)
+
+## Double left click
+![OutPut4](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output4.png)
