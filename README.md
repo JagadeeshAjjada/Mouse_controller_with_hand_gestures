@@ -78,3 +78,9 @@ $ python main.py
 
 ## Hold left click and move
 ![OutPut5](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output5.jpg)
+
+## Scroll up
+![OutPut6](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output6.jpg)
+
+## Scroll down
+![OutPut7](https://raw.githubusercontent.com/JagadeeshAjjada/Mouse_controller_with_hand_gestures/refs/heads/master/Images/output7.jpg)
